@@ -1,4 +1,4 @@
-Hi 👋, I'm Isha  
+Hi, I'm Ishita Thakur
 
 🎓 Computer Science Student  
 💻 Aspiring Software Development Engineer  
