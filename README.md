@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Isha-1802
-- 👀 I’m interested in ...Learning the latest programming languages and frameworks.
-- 🌱 I’m currently learning ...Advanced algorithms, Rust programming, and how to finally debug on the first try
-- 💞️ I’m looking to collaborate on ...Open-source projects, innovative AI applications
-- ⚡ Fun fact: ...I sometimes write code comments like I’m narrating a thriller novel.
+Hi 👋, I'm Isha  
 
+🎓 Computer Science Student  
+💻 Aspiring Software Development Engineer  
 
+🌱 Currently focusing on:
+- Data Structures & Algorithms  
+- JavaScript and Web Development  
+- Building real-world projects  
 
-<!---
-Isha-1802/Isha-1802 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠 Tech Stack  
+- Languages: JavaScript, Python  
+- Frontend: HTML, CSS, React  
+- Tools: Git, GitHub, VS Code  
+
+📌 Featured Projects  
+- 🤖 AiseAI – JavaScript-based AI project  
+- 🌐 Portfolio Website – Personal portfolio  
+- 🧠 Memory Game – JavaScript-based logic game
+
+📫 Connect with me  
+- LinkedIn: www.linkedin.com/in/ishita-thakur-8a9107319
+- Email: ishita.thakur2024@nst.rishihood.edu.in
