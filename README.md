@@ -10,14 +10,14 @@
 
 ### 🚀 About Me
 
-💻 Computer Science student | Full-Stack Developer | AI Enthusiast  
-Passionate about building impactful software with React, Next.js, Node.js, and Python. I love solving challenging problems, participating in hackathons, and creating products that people enjoy using.
+💻 Computer Science Student | Full-Stack Developer | AI Enthusiast  
+Passionate about building scalable software and solving real-world problems through technology. Interested in software engineering, system design, artificial intelligence, distributed systems, cloud computing, and developer productivity. I enjoy transforming ideas into impactful products while continuously learning and collaborating with the developer community.
 
 🔭 &nbsp;I'm currently working on **LuminaAI (AI powered interview site)**  
-🌱 &nbsp;I'm currently learning **Kubernetes • LLM Engineering**  
+🌱 &nbsp;I'm currently learning **LLM Engineering**  
 👯 &nbsp;I'm looking to collaborate on **Open Source • AI/ML Projects • SaaS Products • Full-Stack Applications**  
 🤔 &nbsp;I'm looking for help with **Performance optimization, cloud infrastructure, and scalable backend systems.**  
-💬 &nbsp;Ask me about **Data Structures &amp; Algorithms • C++ • Java • Python • OOP • DBMS • SQL • Operating Systems • Computer Networks • Software Engineering • HTML • CSS • JavaScript • React • Next.js • Node.js • Express.js • REST APIs • Firebase • MongoDB • Git • GitHub • AI &amp; LLM Applications • Full-Stack Development**  
+💬 &nbsp;Ask me about **Data Structures &amp; Algorithms • Software Engineering • Object-Oriented Programming • Database Management Systems • Frontend Development • Backend Development • Full-Stack Web Development • REST API Development • Generative AI • AI/LLM Integration • Open Source • Problem Solving**  
 😄 &nbsp;Pronouns: **She/Her**  
 ⚡ &nbsp;Fun fact: **I enjoy turning random ideas into weekend projects—and I can spend hours debugging just to find a missing semicolon.**
 
@@ -32,6 +32,8 @@ Passionate about building impactful software with React, Next.js, Node.js, and P
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -43,6 +45,7 @@ Passionate about building impactful software with React, Next.js, Node.js, and P
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -52,6 +55,9 @@ Passionate about building impactful software with React, Next.js, Node.js, and P
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
