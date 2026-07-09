@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Isha-1802">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Ishita" alt="Hello! I&#39;m Ishita" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=f471b7&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Ishita" alt="Hello! I&#39;m Ishita" />
   </a>
 </p>
 
@@ -80,14 +80,14 @@ Passionate about building scalable software and solving real-world problems thro
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Isha-1802&show_icons=true&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Isha-1802&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Isha-1802&show_icons=true&theme=tokyonight&title_color=f471b7&icon_color=f471b7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Isha-1802&layout=compact&theme=tokyonight&title_color=f471b7&icon_color=f471b7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Isha-1802&bg_color=00000000&color=db61a2&line=db61a2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Isha-1802&bg_color=00000000&color=f471b7&line=f471b7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
